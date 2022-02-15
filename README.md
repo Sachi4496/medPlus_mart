@@ -39,15 +39,11 @@ Install-project with git
 ## Authors
 -  [Sachidanand Pradhan](https://github.com/Sachi4496)
 
-- [Gangavaram Thousif](https://github.com/Thousifg)
+- [Gopala](https://github.com/gopala1995)
 
-- [Renuka Prasad](https://github.com/Renukote)
+- [Vinod Jantikar](https://github.com/Vinod-Jantikar)
 
-- [Suraj Karosia](https://github.com/1998Suraj)
-
-- [Avdhesh Pal](https://github.com/AvdheshPal)
-
-- [Akash Kumar](https://github.com/KumarAkash22)
+- [Abhishek Chauhan]()
 
 ## 🛠 Tech Stacks
 - #### HTML

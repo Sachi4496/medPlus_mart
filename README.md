@@ -10,7 +10,7 @@ An e-commerce website for buying and selling medicines.
 Install-project with git
 
 ```bash
- git clone https://github.com/Sachi4496/Udemy-Clone-Backend.git
+ git clone https://github.com/Sachi4496/medPlus_mart.git
 ```
 
 ## Features
